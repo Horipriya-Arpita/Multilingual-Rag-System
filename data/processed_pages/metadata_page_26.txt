@@ -1,0 +1,1 @@
+{'producer': 'Microsoft® PowerPoint® for Microsoft 365', 'creator': 'Microsoft® PowerPoint® for Microsoft 365', 'creationdate': '2024-05-13T16:30:00+06:00', 'title': 'PowerPoint Presentation', 'author': 'tariq@10minuteschool.com', 'moddate': '2024-05-13T16:30:00+06:00', 'source': 'documents/hsc.pdf', 'total_pages': 49, 'page': 25, 'page_label': '26'}
